@@ -9,7 +9,7 @@ Dentro del proyecto de github
 **DISCLAIMER**
 Esta guía no se ha elaborado a posteriori, sino según avanza la asignatura. Esto puede llevar a ciertas incoherencias entre lo que aquí se describe y lo que en realidad ocurre. Se tratará de indicar mediante notas a pie de página aquellas partes que tienen más probabilidad de ser modificadas. Se incluirá la fecha de la última revisión. 
 
-![JuanDeLaCosa.png](JuanDeLaCosa.png.md)
+![JuanDeLaCosa.png](JuanDeLaCosa.png)
 Teniendo en cuenta que con esto se dio la vuelta al mundo, esta guía debería ser suficiente para entender el proyecto entero. 
 
 #Intro
