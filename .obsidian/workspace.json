@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "260818a2c7b97fac",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c29583eed198ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0d0196e3645cc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "665e1af69e94d449",
+    "type": "split",
+    "children": [
+      {
+        "id": "55492edc6d7048a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b59509bde53ec676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40ae8e6a987688a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3f0e11d27bc5123",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f34b1312ec40cd29",
+    "type": "split",
+    "children": [
+      {
+        "id": "69a9d26f424733c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b40f4eeb0fda5017",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for A5"
+            }
+          },
+          {
+            "id": "bf015ab284c65eb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from A5"
+            }
+          },
+          {
+            "id": "5f95977c1242b09a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54b72cfda400048f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A5.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of A5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0d0196e3645cc5d",
+  "lastOpenFiles": [
+    "Paradas.md",
+    "GEMMA.md",
+    "D1.md",
+    "A1.md",
+    "Defectos.md",
+    "Producción.md",
+    "Introducción.md",
+    "FLOWCHART-GEMMA.drawio.svg",
+    "F2.md",
+    "JuanDeLaCosa.png",
+    "Untitled.canvas",
+    "A2.md",
+    "F1.md",
+    "A5.md",
+    "A3.md",
+    "D2.md",
+    "Requisitos Previos - ROS2.md",
+    "Untitled.md",
+    "desktop.ini"
+  ]
+}
