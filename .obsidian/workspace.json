@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción.md",
+                "file": "GitBash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción"
+              "title": "GitBash"
             }
           }
         ]
@@ -170,8 +170,14 @@
   },
   "active": "d0d0196e3645cc5d",
   "lastOpenFiles": [
-    "Producción.md",
+    "Obsidian.md",
+    "GitBash.md",
+    "Obsidian y GitHub.md",
+    "NombreNota.md",
+    "ElNombreDelArchivo.md",
+    "Nombre.md",
     "Introducción.md",
+    "Producción.md",
     "README.md",
     "scripts/convert_links.py",
     "scripts",

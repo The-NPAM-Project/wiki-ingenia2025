@@ -1,6 +1,6 @@
 Este conjunto de notas pretende servir de documentación descriptiva para comprender lo que se ha hecho en la asignatura de Ingenia: Sistemas Avanzados de Fabricación 2024-2025. El objetivo es la fabricación aditiva no planar de una pieza con robot[^1]. 
 
-Pretende también servir de guía para el proyecto The-NPAM-Proyect en GitHub.[^2]
+Pretende también servir de guía para el proyecto The-NPAM-Proyect en GitHub.[^2] La guía incluye notas que explican también como trabajar en [Obsidian y GitHub](Obsidian%20y%20GitHub.md), para que esta guía se pueda modificar en el futuro. 
 
 Para explicar el diagrama con la secuencia del proceso se ha utilizado la guía [GEMMA](GEMMA.md).
 
