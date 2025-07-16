@@ -31,14 +31,16 @@ Actualmente, este módulo no está integrado en el mastermind, pero la idea es h
 - [ ] Integrar calibración en un nodo ROS2 o decidir si será parte del *mastermind*.
 - [ ] Terminar de configurar el nodo.
 - [ ] Implementar `movel()` (versión de Adela).
-- [x] Programar función `analog_read()`. **
+- [x] Programar función `analog_read()`. *
 - [ ] Programar función `set_tcp()`.
 - [x] Programar función `get_actual_joint_positions()`.
 - [ ] Programar función `get_forward_kin()`.
 - [ ] Asegurar que todos los `new` en el código estén acompañados por su correspondiente `delete`.
+- [ ] Tomar nuevas medidas de la posición del laser (algo más genérico al proyecto). **
 
 ---
 
-** El UR manda una señal en mA al PLC, que la interpreta a través del pin analógico 0. Esta información debería estar registrada en el *super_logger* (sería útil sacar datos de ahí).  
-Actualmente, en el código se ha implementado una forma de leer el láser igual que en el [proyecto de Miguel Lerín](https://github.com/The-NPAM-Project/TFM_MiguelLerinAlonso). 
+\* ¿Cómo se comunica el laser con el ordenador?: El UR manda una señal en mA al PLC, que la interpreta a través del pin analógico 0. Esta información debería estar registrada en el *super_logger* (podría ser útil sacar datos de ahí). Actualmente, en el código se ha implementado una forma de leer el láser igual que en el [proyecto de Miguel Lerín](https://github.com/The-NPAM-Project/TFM_MiguelLerinAlonso).
 ⚠️ *No está testeado*
+
+** Respecto al curso 2023-24, en el curso 2024-25, se ha movido la percha de posición por lo que se deberán tomar nuevas medidas de algunas coordenadas de interes que aparecen en el código de calibración.
